@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MyTaskHub/static/css/main.fe287e14.css",
-    "main.js": "/MyTaskHub/static/js/main.9868809c.js",
+    "main.js": "/MyTaskHub/static/js/main.a1f18242.js",
     "index.html": "/MyTaskHub/index.html",
     "main.fe287e14.css.map": "/MyTaskHub/static/css/main.fe287e14.css.map",
-    "main.9868809c.js.map": "/MyTaskHub/static/js/main.9868809c.js.map"
+    "main.a1f18242.js.map": "/MyTaskHub/static/js/main.a1f18242.js.map"
   },
   "entrypoints": [
     "static/css/main.fe287e14.css",
-    "static/js/main.9868809c.js"
+    "static/js/main.a1f18242.js"
   ]
 }
