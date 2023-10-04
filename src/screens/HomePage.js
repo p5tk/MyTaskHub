@@ -101,7 +101,7 @@ const HomePage = () => {
     <div
       className="h-screen pt-16 px-4"
       style={{
-        backgroundImage: `url("/background.jpg")`,
+        backgroundImage: `url(${process.env.PUBLIC_URL}/background.jpg)`,
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
         backgroundAttachment: "fixed",
